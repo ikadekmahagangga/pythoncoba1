@@ -1,4 +1,3 @@
-#linklist
 class maku:
     class node:
         def __init__(self, data, next):
